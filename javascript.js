@@ -77,6 +77,22 @@ const portfolioData = {
             ],
             liveDemo: "#",
             sourceCode: "#"
+        },
+        {
+            title: "Weather Information App",
+            description: "A dynamic weather application that provides real-time weather information, forecasts, and location-based weather data with an intuitive user interface.",
+            technologies: ["JavaScript", "HTML", "CSS", "Weather API", "Geolocation"],
+            icon: "fas fa-cloud-sun",
+            date: "Dec 2024",
+            features: [
+                "Real-time weather information and forecasts",
+                "Location-based weather data using geolocation",
+                "Responsive design for all devices",
+                "Integration with weather APIs for accurate data",
+                "Intuitive user interface with weather icons"
+            ],
+            liveDemo: "#",
+            sourceCode: "#"
         }
     ],
     certifications: [
