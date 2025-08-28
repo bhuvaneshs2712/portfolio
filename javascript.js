@@ -93,6 +93,21 @@ const portfolioData = {
             ],
             liveDemo: "#",
             sourceCode: "#"
+        },
+        {
+            title: "Rock Paper Scissor Game",
+            description: "A classic Rock–Paper–Scissor browser game with animated interactions, score tracking, and responsive UI.",
+            technologies: ["JavaScript", "HTML", "CSS"],
+            icon: "fas fa-hand-rock",
+            date: "Jan 2025",
+            features: [
+                "Player vs Computer with random AI",
+                "Round-based scoring and game reset",
+                "Smooth button animations and feedback",
+                "Mobile-friendly responsive layout"
+            ],
+            liveDemo: "#",
+            sourceCode: "#"
         }
     ],
     certifications: [
